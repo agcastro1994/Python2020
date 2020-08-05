@@ -16,10 +16,20 @@ Requisitos
 
 -Tener instalado Python. De preferencia una version >= 3.6
 
+https://www.python.org/downloads/
+
 -Tener las librerias PysimpleGUI y Pattern en sus ultimas versiones 
 
 PySimpleGUI 4.19.0
 Pattern 3.6
+
+En la consola de comandos (cmd para windows, Terminal para linux) correr los comandos:
+
+pip install pattern
+
+pip install pysimplegui
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
