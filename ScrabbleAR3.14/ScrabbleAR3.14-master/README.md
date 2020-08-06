@@ -10,6 +10,10 @@ Marques de Abrantes, Federico 16785/1
 
 -El interprete de Python usado fue Python 3.8.2
 
+Licencia
+
+GNU general license version 3.0
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Requisitos
